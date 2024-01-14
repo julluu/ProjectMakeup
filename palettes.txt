@@ -1,0 +1,25 @@
+Mercury Retrograde,Huda Beauty,18,13
+The Antidote,BPerfect Cosmetics,45,17
+The Interstellar,BPerfect Cosmetics,45,0
+Cotton Candy,BH Cosmetics,8,0
+Lost in Los Angeles,BH Cosmetics,16,1
+Passion in Paris,BH Cosmetics,16,3
+Going Solo,PLouise,8,0
+The Nudes,Juvia's Place,6,3
+The Taupes,Juvia's Place,6,2
+The Tribe,Juvia's Place,9,4
+The Magic,Juvia's Place,16,9
+Five Star Island, Colourpop,4,1
+Mint to Be,Colourpop,9,1
+Blue Moon,Colourpop,9,2
+Uh-huh Honey,Colourpop,9,0
+Solmane,Oden's Eye,12,3
+Thirsty,Jeffree Star Cosmetics,15,4
+Santa's Village,Nomad Cosmetics,9,0
+Break the Rules,It's Bel Cosmetics,9,2
+Light and Glitter Garden,rom&nd,10,1
+Single Shadows,Misc,4,1
+GlamShop Singles,Glamshop,19,0
+Lethal Singles,Lethal Cosmetics,3,0
+TerraMoons Singles,TerraMoons,13,0
+Colourpop Singles,Colourpop,15,2
