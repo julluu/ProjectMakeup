@@ -2,6 +2,7 @@
 Project inspired by my passion: makeup
 
 This is a database for my makeup. It's purpose is to track the usage percentage of my eyeshadow palettes and organize them in the desired order.
+There is also an option to randomly pick a palette or desired amount of individual shades from the collection.
 
 Pan = one individual shade on the palette
 
@@ -12,4 +13,3 @@ Things I'd like to add:
   * other products (lip products, blush, highlighters etc)
   * categorization by colourstories of the palettes
   * counter for how many products I have from each brand
-  * random makeup picker
